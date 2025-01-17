@@ -1,0 +1,17 @@
+self.events.data.microsoft.com
+geo.prod.do.dsp.mp.microsoft.com
+geover.prod.do.dsp.mp.microsoft.com
+warw.msftconnecttest.com
+kv501.prod.do.dsp.mp.microsoft.com
+cp501.prod.do.dsp.mp.microsoft.com
+disc501.prod.do.dsp.mp.microsoft.com
+array505.prod.do.dsp.mp.microsoft.com
+cdn.onenote.net
+client.wns.windows.com
+go.microsoft.com
+ctld l.windowsuvxlate.com
+ctldl.windowsupdate.com
+www.msftconnecttest.com
+dns.msftncsi.com
+activity.windows.com
+dmp100dmpprodstorage.table.core.windows.net

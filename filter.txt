@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/jdlingyu/ad-wars/refs/heads/master/hosts
 https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
 https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 
 ## YogaDNS
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffice.txt

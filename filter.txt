@@ -18,6 +18,9 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffic
 https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt
 
+## Aggressive
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.wildcards
+
 ## Opinionated
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.huawei.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.txt

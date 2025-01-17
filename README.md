@@ -14,8 +14,6 @@ https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
 
 ## YogaDNS
-wpad.cycu.edu.tw
-asc-appservice-01.asus.com
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffice.txt
 https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt

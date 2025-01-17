@@ -2,4 +2,4 @@
 
 Aggresive security blocklists and moderate adblocklists.
 * Blocklists: My favorite combination of blocklists for uBO and YogaDNS.
-* WindowsTelemetry: My DIY list.
+* WindowsTelemetry: My DIY list. For more Windows telemetry blocklists, check out those in RethinkDNS and Hagezi's blocklist.

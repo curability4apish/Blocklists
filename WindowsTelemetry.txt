@@ -3,13 +3,13 @@ activity.windows.com
 bat.bing.com
 client.wns.windows.com
 cp501.prod.do.dsp.mp.microsoft.com
-ctld l.windowsuvxlate.com
+ctldl.windowsuvxlate.com
 ctldl.windowsupdate.com
 dmp100dmpprodstorage.table.core.windows.net
 disc501.prod.do.dsp.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 fe3cr.delivery.mp.microsoft.com
-geo.prod.do.dsp.mp.microsoft.com (listed twice, retains first instance)
+geo.prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
 nav.smartscreen.microsoft.com
 paymentinstruments.mp.microsoft.com

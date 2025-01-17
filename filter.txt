@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscry
 
 ## Aggressive
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.wildcards
+https://raw.githubusercontent.com/ph00lt0/blocklists/master/pihole-blocklist.txt
 
 ## Opinionated
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.huawei.txt

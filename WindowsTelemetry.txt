@@ -1,4 +1,3 @@
-This is my DIY list, reviewed by Github Copilot.
 # Telemetry
 activity.windows.com
 bat.bing.com
@@ -20,6 +19,7 @@ tlu.dl.delivery.mp.microsoft.com
 warw.msftconnecttest.com
 www.msftconnecttest.com
 dns.msftncsi.com
+
 # Content Delivery
 cdn-dynmedia-1.microsoft.com
 cdn.onenote.net

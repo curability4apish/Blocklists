@@ -1,20 +1,32 @@
-self.events.data.microsoft.com
-geo.prod.do.dsp.mp.microsoft.com
-geover.prod.do.dsp.mp.microsoft.com
-warw.msftconnecttest.com
-kv501.prod.do.dsp.mp.microsoft.com
-cp501.prod.do.dsp.mp.microsoft.com
-disc501.prod.do.dsp.mp.microsoft.com
-array505.prod.do.dsp.mp.microsoft.com
+# Telemetry
+activity.windows.com
+bat.bing.com
 client.wns.windows.com
+cp501.prod.do.dsp.mp.microsoft.com
 ctld l.windowsuvxlate.com
 ctldl.windowsupdate.com
+dmp100dmpprodstorage.table.core.windows.net
+disc501.prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+geo.prod.do.dsp.mp.microsoft.com (listed twice, retains first instance)
+geover.prod.do.dsp.mp.microsoft.com
+nav.smartscreen.microsoft.com
+paymentinstruments.mp.microsoft.com
+self.events.data.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
+warw.msftconnecttest.com
 www.msftconnecttest.com
 dns.msftncsi.com
-activity.windows.com
-dmp100dmpprodstorage.table.core.windows.net
-
-## Content Delivery
+# Content Delivery
+cdn-dynmedia-1.microsoft.com
 cdn.onenote.net
-go.microsoft.com
+displaycatalog.mp.microsoft.com
 dmp100dmpprodstorage.table.core.windows.net
+go.microsoft.com
+licensing.mp.microsoft.com
+purchase.mp.microsoft.com
+store-images.microsoft.com
+store-images.s-microsoft.com
+www.microsoft.com

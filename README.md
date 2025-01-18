@@ -1,4 +1,5 @@
-* RethinkDNS: 1-7c7tqbaeabtqhsijamiseaim4cbaavbqucjeb2qaba.max.rethinkdns.com
+* RethinkDNS:
+ https://1-7c7tqbaeabtqhsijamiseaim4cbaavbqucjeb2qaba.max.rethinkdns.com
 
 These blocklists include aggressive security blocklists, moderate ads, and telemetry blocklists.
 

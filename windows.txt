@@ -1,5 +1,5 @@
 activity.windows.com
-bat.bing.com # Could be related to Bing services, which might collect some data but is essential for search functionality.
+
 client.wns.windows.com
 ctldl.windowsupdate.com
 ctldl.windowsuvxlate.com
@@ -25,6 +25,7 @@ ocsp.digicert.com
 s7mbrstream.scene7.com
 images-eds-ssl.xboxlive.com
 ## may break msstore
+# bat.bing.com # Could be related to Bing services, which might collect some data but is essential for search functionality.
 # storeedgefd.dsx.mp.microsoft.com # Breaks msstore download. mscopilot: Could be related to Microsoft Store data collection.
 # paymentinstruments.mp.microsoft.com
 # nav.smartscreen.microsoft.com

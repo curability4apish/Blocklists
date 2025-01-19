@@ -1,4 +1,6 @@
-## Native Tracker
+https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+
+# native
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.huawei.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.extended.txt
@@ -12,14 +14,14 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.xiaomi.t
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.wildcards
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/pihole-blocklist.txt
 
-# uncategorized
+# microsoft
 cdn-dynmedia-1.microsoft.com
 cdn.onenote.net
 store-images.microsoft.com
 store-images.s-microsoft.com
 www.microsoft.com
 
-https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+
 
 
 

@@ -1,5 +1,4 @@
 *.microsoft.com
-*.prod.do.dsp.mp.microsoft.com
 *.windows.com
 *.bing.com
 *.windowsupdate.com

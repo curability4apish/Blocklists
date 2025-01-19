@@ -11,4 +11,5 @@ These blocklists include aggressive security blocklists, moderate ads, and telem
 ## My DIY list.
 * Null_Windows_Aesterisk.txt
 * Null_Windows.txt
+
 For more Windows telemetry blocklists, check out those in RethinkDNS and Hagezi's blocklist.

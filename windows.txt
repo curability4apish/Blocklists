@@ -11,7 +11,7 @@ geo.prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
 go.microsoft.com
 licensing.mp.microsoft.com
-nav.smartscreen.microsoft.com
+
 purchase.mp.microsoft.com
 self.events.data.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
@@ -27,6 +27,7 @@ images-eds-ssl.xboxlive.com
 ## may break msstore
 # storeedgefd.dsx.mp.microsoft.com # Breaks msstore download. mscopilot: Could be related to Microsoft Store data collection.
 # paymentinstruments.mp.microsoft.com
+# nav.smartscreen.microsoft.com
 
 
 

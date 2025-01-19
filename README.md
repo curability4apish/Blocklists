@@ -2,6 +2,8 @@
 
 My favorite combination of blocklists for uBO and YogaDNS.
 
+If necessary, I recommend only to use highly false-positive blocklists and URL shorteners with uBO, because it let us cancel every false positive block.
+
 * RethinkDNS: https://1-7c7tqbaeabtqhsijamiseaim4cbaavbqucjeb2qaba.max.rethinkdns.com
 
 These blocklists include aggressive security blocklists, moderate ads, and telemetry blocklists.

@@ -9,7 +9,7 @@ These blocklists include aggressive security blocklists, moderate ads, and telem
 ## My DIY lists.
 * Winshield-Aesterisk
 * Winshield
-* 
+
 They must block most of Windows native trackers, but must break Microsoft services and Windows updates.
 
 For more Windows telemetry blocklists, check out those in RethinkDNS and Hagezi's blocklist.

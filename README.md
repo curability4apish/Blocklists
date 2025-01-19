@@ -9,6 +9,6 @@ These blocklists include aggressive security blocklists, moderate ads, and telem
 ## My DIY list.
 * NoWindows_Aesterisk.txt
 * NoWindows.txt
-They must break Microsoft service.
+They must break Microsoft services, as well as Windows updates.
 
 For more Windows telemetry blocklists, check out those in RethinkDNS and Hagezi's blocklist.

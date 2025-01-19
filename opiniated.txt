@@ -1,0 +1,28 @@
+## Native Tracker
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.huawei.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.extended.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.samsung.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.lgwebos.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.vivo.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.oppo-realme.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.xiaomi.txt
+
+# aggressive
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.wildcards
+https://raw.githubusercontent.com/ph00lt0/blocklists/master/pihole-blocklist.txt
+
+# uncategorized
+cdn-dynmedia-1.microsoft.com
+cdn.onenote.net
+store-images.microsoft.com
+store-images.s-microsoft.com
+www.microsoft.com
+
+https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+
+
+
+
+
+

@@ -6,7 +6,7 @@ My favorite combination of blocklists for uBO and YogaDNS.
 
 These blocklists include aggressive security blocklists, moderate ads, and telemetry blocklists.
 
-* windows
+* Null_Windows
 
 My DIY list. It break basic functionality of Microsoft service.
 

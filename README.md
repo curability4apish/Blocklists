@@ -1,4 +1,4 @@
-* blocklists
+* Blocklists
 
 My favorite combination of blocklists for uBO and YogaDNS.
 

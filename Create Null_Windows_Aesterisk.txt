@@ -1,0 +1,9 @@
+*.microsoft.com
+*.prod.do.dsp.mp.microsoft.com
+*.windows.com
+*.bing.com
+*.windowsupdate.com
+*.windowsuvxlate.com
+*.windows.net
+*.msftncsi.com
+*.msftconnecttest.com

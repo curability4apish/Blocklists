@@ -8,3 +8,4 @@
 *.msftconnecttest.com
 *.office.com
 *.officeapps.live.com
+*.skype.com

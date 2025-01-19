@@ -6,8 +6,6 @@ My favorite combination of blocklists for uBO and YogaDNS.
 
 These blocklists include aggressive security blocklists, moderate ads, and telemetry blocklists.
 
-* Null_Windows
-
 ## My DIY list.
 * NoWindows_Aesterisk.txt
 * NoWindows.txt

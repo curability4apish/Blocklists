@@ -1,4 +1,5 @@
-# Telemetry
+# Windows Telemetry blocklist.
+# RAW: https://github.com/curability4apish/blocklists/raw/refs/heads/main/windows.txt
 activity.windows.com
 bat.bing.com
 client.wns.windows.com
@@ -25,9 +26,4 @@ go.microsoft.com
 licensing.mp.microsoft.com
 purchase.mp.microsoft.com
 
-# Content Delivery
-cdn-dynmedia-1.microsoft.com
-cdn.onenote.net
-store-images.microsoft.com
-store-images.s-microsoft.com
-www.microsoft.com
+

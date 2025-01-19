@@ -2,7 +2,7 @@
 activity.windows.com
 bat.bing.com
 client.wns.windows.com
-cp501.prod.do.dsp.mp.microsoft.com
+*.prod.do.dsp.mp.microsoft.com
 ctldl.windowsuvxlate.com
 ctldl.windowsupdate.com
 dmp100dmpprodstorage.table.core.windows.net

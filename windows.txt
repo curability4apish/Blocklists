@@ -14,7 +14,7 @@ geover.prod.do.dsp.mp.microsoft.com
 nav.smartscreen.microsoft.com
 paymentinstruments.mp.microsoft.com
 self.events.data.microsoft.com
-# storeedgefd.dsx.mp.microsoft.com
+# storeedgefd.dsx.mp.microsoft.com: breaks msstore download
 tlu.dl.delivery.mp.microsoft.com
 warw.msftconnecttest.com
 www.msftconnecttest.com

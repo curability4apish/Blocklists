@@ -12,7 +12,7 @@ geover.prod.do.dsp.mp.microsoft.com
 go.microsoft.com
 licensing.mp.microsoft.com
 
-purchase.mp.microsoft.com
+
 self.events.data.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 warw.msftconnecttest.com
@@ -29,6 +29,11 @@ images-eds-ssl.xboxlive.com
 # storeedgefd.dsx.mp.microsoft.com # Breaks msstore download. mscopilot: Could be related to Microsoft Store data collection.
 # paymentinstruments.mp.microsoft.com
 # nav.smartscreen.microsoft.com
+# purchase.mp.microsoft.com
+
+
+## watching
+# jcmsfd.account.microsoft.com - block (return null IP) : rule=New Rule
 
 
 

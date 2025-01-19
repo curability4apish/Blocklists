@@ -6,3 +6,5 @@
 *.windows.net
 *.msftncsi.com
 *.msftconnecttest.com
+*.office.com
+*.officeapps.live.com

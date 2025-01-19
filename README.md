@@ -8,6 +8,7 @@ These blocklists include aggressive security blocklists, moderate ads, and telem
 
 * Null_Windows
 
-My DIY list. It break basic functionality of Microsoft service.
-
+## My DIY list.
+* Null_Windows_Aesterisk.txt
+* Null_Windows.txt
 For more Windows telemetry blocklists, check out those in RethinkDNS and Hagezi's blocklist.

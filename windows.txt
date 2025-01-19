@@ -1,4 +1,4 @@
-# RAW: https://github.com/curability4apish/blocklists/raw/refs/heads/main/windows.txt
+# raw: https://github.com/curability4apish/blocklists/raw/refs/heads/main/windows.txt
 activity.windows.com
 bat.bing.com
 client.wns.windows.com

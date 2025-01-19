@@ -1,40 +1,26 @@
 activity.windows.com
-
+bat.bing.com
 client.wns.windows.com
+cdn-dynmedia-1.microsoft.com
 ctldl.windowsupdate.com
 ctldl.windowsuvxlate.com
 dmp100dmpprodstorage.table.core.windows.net
 displaycatalog.mp.microsoft.com
 disc501.prod.do.dsp.mp.microsoft.com
+dns.msftncsi.com
 fe3cr.delivery.mp.microsoft.com
 geo.prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
 go.microsoft.com
+graph.microsoft.com
+jcmsfd.account.microsoft.com
 licensing.mp.microsoft.com
-
-
+nav.smartscreen.microsoft.com
+ocsp.digicert.com
+paymentinstruments.mp.microsoft.com
+purchase.mp.microsoft.com
 self.events.data.microsoft.com
+s7mbrstream.scene7.com
+storeedgefd.dsx.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 warw.msftconnecttest.com
-www.msftconnecttest.com
-dns.msftncsi.com
-cdn-dynmedia-1.microsoft.com
-graph.microsoft.com
-ocsp.digicert.com
-
-s7mbrstream.scene7.com
-images-eds-ssl.xboxlive.com
-## may break msstore
-# bat.bing.com # Could be related to Bing services, which might collect some data but is essential for search functionality.
-# storeedgefd.dsx.mp.microsoft.com # Breaks msstore download. mscopilot: Could be related to Microsoft Store data collection.
-# paymentinstruments.mp.microsoft.com
-# nav.smartscreen.microsoft.com
-# purchase.mp.microsoft.com
-
-
-## watching
-# jcmsfd.account.microsoft.com - block (return null IP) : rule=New Rule
-
-
-
-

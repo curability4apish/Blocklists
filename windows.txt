@@ -1,28 +1,29 @@
 # raw: https://github.com/curability4apish/blocklists/raw/refs/heads/main/windows.txt
+
 activity.windows.com
-bat.bing.com
+bat.bing.com # mscopilot: Could be related to Bing services, which might collect some data but is essential for search functionality.
+cdn-dynmedia-1.microsoft.com # mscopilot: Could be used for media content delivery and data collection.
 client.wns.windows.com
-*.prod.do.dsp.mp.microsoft.com
-ctldl.windowsuvxlate.com
 ctldl.windowsupdate.com
+ctldl.windowsuvxlate.com
 dmp100dmpprodstorage.table.core.windows.net
-disc501.prod.do.dsp.mp.microsoft.com
 displaycatalog.mp.microsoft.com
+disc501.prod.do.dsp.mp.microsoft.com
 fe3cr.delivery.mp.microsoft.com
 geo.prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
+go.microsoft.com
+graph.microsoft.com # Used for Microsoft Graph services, which might collect usage data.
+licensing.mp.microsoft.com
 nav.smartscreen.microsoft.com
-paymentinstruments.mp.microsoft.com
+ocsp.digicert.com # mscopilot: Used for Online Certificate Status Protocol (OCSP) which might be essential for security but not telemetry.
+paymentinstruments.mp.microsoft.com # mscopilot: Likely related to payment data collection.
+purchase.mp.microsoft.com
+s7mbrstream.scene7.com # Might be related to media streaming telemetry.
 self.events.data.microsoft.com
-# storeedgefd.dsx.mp.microsoft.com: breaks msstore download
+# storeedgefd.dsx.mp.microsoft.com # Breaks msstore download. mscopilot: Could be related to Microsoft Store data collection.
 tlu.dl.delivery.mp.microsoft.com
 warw.msftconnecttest.com
 www.msftconnecttest.com
 dns.msftncsi.com
-displaycatalog.mp.microsoft.com
-dmp100dmpprodstorage.table.core.windows.net
-go.microsoft.com
-licensing.mp.microsoft.com
-purchase.mp.microsoft.com
-
-
+images-eds-ssl.xboxlive.com # Likely essential for Xbox Live services.

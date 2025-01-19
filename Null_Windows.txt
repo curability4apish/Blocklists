@@ -1,3 +1,5 @@
+ocsp.digicert.com
+s7mbrstream.scene7.com
 activity.windows.com
 bat.bing.com
 client.wns.windows.com
@@ -24,4 +26,5 @@ s7mbrstream.scene7.com
 storeedgefd.dsx.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 warw.msftconnecttest.com
-*.microsoft.com
+www.msftconnecttest.com
+

@@ -21,8 +21,13 @@ dns.msftncsi.com
 cdn-dynmedia-1.microsoft.com
 graph.microsoft.com
 ocsp.digicert.com
-paymentinstruments.mp.microsoft.com
+
 s7mbrstream.scene7.com
 images-eds-ssl.xboxlive.com
-## whitelist
+## may break msstore
 # storeedgefd.dsx.mp.microsoft.com # Breaks msstore download. mscopilot: Could be related to Microsoft Store data collection.
+# paymentinstruments.mp.microsoft.com
+
+
+
+

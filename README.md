@@ -12,7 +12,7 @@ These blocklists include aggressive security blocklists, moderate ads, and telem
 
 Integrates lists from [1](https://github.com/kong0107/search-params-remover) and [2](https://github.com/mpchadwick/tracking-query-params-registry).
 
-Web extensions to bleach URL params:[3](https://chromewebstore.google.com/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) and [4](https://chromewebstore.google.com/detail/search-params-remover/gfmcbkcihnobpalkdakmmecajahgnnol).
+Web extensions to bleach URL params: [3](https://chromewebstore.google.com/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) and [4](https://chromewebstore.google.com/detail/search-params-remover/gfmcbkcihnobpalkdakmmecajahgnnol).
 ## My DIY lists.
 * Winshield-Aesterisk
 * Winshield

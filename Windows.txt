@@ -19,15 +19,15 @@ tlu.dl.delivery.mp.microsoft.com
 warw.msftconnecttest.com
 www.msftconnecttest.com
 dns.msftncsi.com
-
-# Content Delivery
-cdn-dynmedia-1.microsoft.com
-cdn.onenote.net
 displaycatalog.mp.microsoft.com
 dmp100dmpprodstorage.table.core.windows.net
 go.microsoft.com
 licensing.mp.microsoft.com
 purchase.mp.microsoft.com
+
+# Content Delivery
+cdn-dynmedia-1.microsoft.com
+cdn.onenote.net
 store-images.microsoft.com
 store-images.s-microsoft.com
 www.microsoft.com

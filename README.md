@@ -8,4 +8,6 @@ These blocklists include aggressive security blocklists, moderate ads, and telem
 
 * windows
 
-My DIY list. For more Windows telemetry blocklists, check out those in RethinkDNS and Hagezi's blocklist.
+My DIY list. May break basic functionality of Microsoft service.
+
+For more Windows telemetry blocklists, check out those in RethinkDNS and Hagezi's blocklist.

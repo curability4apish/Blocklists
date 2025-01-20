@@ -9,3 +9,5 @@
 *.office.com
 *.officeapps.live.com
 *.skype.com
+ocsp.digicert.com
+s7mbrstream.scene7.com

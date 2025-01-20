@@ -2,7 +2,7 @@
 
 My favorite combination of blocklists for uBO and YogaDNS.
 
-* Param-Blocklist
+* Param Blocklist
 
 Integrates lists from [1](https://github.com/kong0107/search-params-remover) and [2](https://github.com/mpchadwick/tracking-query-params-registry).
 
@@ -15,10 +15,10 @@ These blocklists include aggressive security blocklists, moderate ads, and telem
 
 My DIY list to hide your device from Samsung's eyes.
 
-* Windows-Blocklist
+* Windows Blocklist
   
 My DIY list to hide your device from Windows' eyes.
-* Windows-Log
+* Windows Log
 
 My DIY log of native Windows connections.
 

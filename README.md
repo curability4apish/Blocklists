@@ -13,11 +13,11 @@ These blocklists include aggressive security blocklists, moderate ads, and telem
 
 * Samsung Blocklist
 
-My DIY list to hide your device from Samsung's eye.
+My DIY list to hide your device from Samsung's eyes.
 
 * Windows-Blocklist
   
-My DIY list to hide your device from Windows' eye.
+My DIY list to hide your device from Windows' eyes.
 * Windows-Log
 
 My DIY log of native Windows connections.

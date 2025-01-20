@@ -20,4 +20,4 @@ They must block most of Windows native trackers. They must break Microsoft servi
 1. Web extensions to bleach URL params: [3](https://chromewebstore.google.com/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) and [4](https://chromewebstore.google.com/detail/search-params-remover/gfmcbkcihnobpalkdakmmecajahgnnol).
 2. For more Windows telemetry blocklists, check out those in RethinkDNS and [Hagezi's](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt) blocklist.
 3. Block connections of native apps with RethinkDNS app to prevent native tracking.
-4. For those who value privacy more, I recommend using highly false-positive blocklists and URL shorteners with uBO, because it let us cancel every false positive block.
+4. For those who value privacy more, I recommend using slightly agressive blocklists and URL shorteners with uBO, because it let us cancel every false positive block.

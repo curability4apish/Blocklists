@@ -16,5 +16,6 @@ https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list
 
 # windows native
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffice.txt
-https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Microsoft
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows # rethinkdns
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt # rethinkdns
